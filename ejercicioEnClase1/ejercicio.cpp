@@ -153,6 +153,8 @@ void mostrarMateriasYiasEnMarzo(int matrizAccesosMarzo[20][31]){
 
     cout<< "cometario ALEX de prueba para ver algo";
 
+    cout << "Alex no subas cosas con virus!!";
+
 
 }
 
