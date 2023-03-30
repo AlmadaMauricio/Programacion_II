@@ -149,8 +149,7 @@ void mostrarMateriaConMasAccesosEnMarzo(float *vectorHoras){
 
 void mostrarMateriasYiasEnMarzo(int matrizAccesosMarzo[20][31]){
 
-
-
+    cout<< "cometario de prueba";
 }
 
 
